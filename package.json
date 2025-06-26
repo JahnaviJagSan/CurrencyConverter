@@ -8,6 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+    "homepage": "https://jahnavijagsan.github.io/CurrencyConverter"
   },
   "dependencies": {
     "react": "^19.0.0",
